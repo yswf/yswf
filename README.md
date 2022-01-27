@@ -1,6 +1,8 @@
 ### Hi there 👋
+
 ![](https://github-readme-stats.vercel.app/api?username=yswf)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yswf&layout=compact)](https://github.com/yswf)
 
 Here are some ideas to get you started:
 
